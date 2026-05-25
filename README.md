@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @wladi1mir
-- 👀 I’m interested: how to swap XRP on Stably USD in XRP ledger without using apps
-- 🌱 I’m currently learning ...
+
 
 
 <!---
